@@ -16,7 +16,7 @@ Feel free to contact: chijunjian@gmail.com
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JunjianChi&theme=transparent)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JunjianChi&theme=github-compact)](https://github.com/JunjianChi)
+<!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JunjianChi&theme=github-compact)](https://github.com/JunjianChi) -->
 
 </div>
 
