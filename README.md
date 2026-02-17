@@ -5,9 +5,10 @@
 <h3>MRes @ Cambridge | BEng @ UCL<br>
 Biomedical Circuits · Embedded Systems · Embodied Learning</h3>
 
-<p>
-<a href="mailto:chijunjian@gmail.com">chijunjian@gmail.com</a>
-</p>
+<p>Previously worked on wearable sensing and human pose estimation.<br>
+Currently exploring robotics perception and planning.</p>
+
+<p>Feel free to contact: <a href="mailto:chijunjian@gmail.com">chijunjian@gmail.com</a></p>
 
 </div>
 
@@ -25,15 +26,15 @@ Biomedical Circuits · Embedded Systems · Embodied Learning</h3>
 
 ---
 
-## Language & Embedded
+## Language & Tools
 
 ### Language
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-333333?style=flat-square)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat-square)
+![Verilog](https://img.shields.io/badge/-Verilog-848484?style=flat-square&logo=v&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white)
 
 ### Embedded
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -43,8 +44,8 @@ Biomedical Circuits · Embedded Systems · Embodied Learning</h3>
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 
 ### Tools
-![Altium](https://img.shields.io/badge/-Altium-333333?style=flat-square&logo=altiumdesigner&logoColor=white)
-![COMSOL](https://img.shields.io/badge/-COMSOL-333333?style=flat-square)
+![Altium Designer](https://img.shields.io/badge/-Altium_Designer-A5915F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOS4xNCA1Ljg3NmExLjAxMiAxLjAxMiAwIDAwLS40NDItLjQ0Mkw5Ljc0NC4xNzFjLS4zMjktLjIyNi0uODQzLS4yMjYtMS4yMDMtLjAxTDUuMTQ4IDIuMTQ1Yy0uMDUxLjA0MS0uMTAyLjA4Mi0uMTQ0LjEyM2ExLjA4NiAxLjA4NiAwIDAwLS4yODguNzJsLjAxIDYuNTY5LS4wMi4yMTUuMDYyLjEyM2EuNDc4LjQ3OCAwIDAwLjE5NS4yMDYuNTE2LjUxNiAwIDAwLjU1NS4wMUw4Ljg1OSA4LjJhLjU3My41NzMgMCAwMC4xNzUtLjE3NWwuMDgyLS4xNjVWNC42NDNsMi4yNTEgMS4zMjYgMy41MzYgMi4wNzdhLjQxMy40MTMgMCAwMS4xNjQuMTg1LjQ0Mi40NDIgMCAwMS4wNjIuMjI2djcuMDUyYS41Mi41MiAwIDAxLS4wNzIuMjU3Yy0uMDQxLjA3Mi0uMDgyLjEyMy0uMTU0LjE1NGwtNC4yMjUgMi40ODgtMS41NzMuOTI1di0zLjIyOGwxLjk1My0xLjE3MiAxLjA0OS0uNjI3LjE4NS0uMTc1LjAyMS0uMDUxYS41NDIuNTQyIDAgMDAuMDYyLS4yNDdWOS45OTlhLjUxLjUxIDAgMDAtLjA5Mi0uMjg4bC0uMDYyLS4xMjMtLjE0NC0uMDcyYy0uMDkzLS4wNDEtLjE3NS0uMDQxLS4yNDctLjA0MWwtLjE3NS4wMS02LjM2MyAzLjg2NWExLjEyOSAxLjEyOSAwIDAwLS40NDIuNDYzIDEuMjgxIDEuMjgxIDAgMDAtLjE0NC42MDd2Ni41NTljMCAuMjU3LjEwMy41MTQuMzI5Ljc1LjA4Mi4wNjIuMTU0LjExMy4yMzYuMTY0bDMuMzQxIDEuOTQzYy4xODYuMTEzLjM4MS4xNjQuNTk3LjE2NC4yMTYgMCAuNDIyLS4wNTEuNTk2LS4xNjRsOC44ODItNS4yMTJjLjE5NS0uMTAzLjM2LS4yNjcuNDQyLS40MzIuMTEzLS4xODUuMTY0LS40MDEuMTY0LS42MTdWNi40ODNhMS4yMzYgMS4yMzYgMCAwMC0uMTUzLS42MDd6TTguMzg3IDcuNjI0TDUuNDQ3IDkuMzJWMi45ODhjMC0uMDcyLjAzMS0uMTU0LjA5Mi0uMjE2bC4yMTYtLjEyMyAyLjYzMiAxLjU2M3YzLjQxMnptLTIuOTUxIDYuNzk1YzAtLjA5My4wMjEtLjE4NS4wNjItLjI3OGEuNDA5LjQwOSAwIDAxLjE3NS0uMTc1bDUuOTczLTMuNjI5djMuMzkybC0uOTU2LjU3Ni0yLjMxMyAxLjM4OC0yLjk0IDEuNzc4di0zLjA1MnptMCA2LjU1OXYtMi42NjNsMi45NC0xLjc2OHYzLjIxOGwtMi42MzIgMS41NTItLjEwMy0uMDYyYy0uMDUxLS4wMzEtLjA5My0uMDUxLS4xMDMtLjA2Mi0uMDYxLS4wNzEtLjEwMi0uMTQzLS4xMDItLjIxNXptMTMuMTI4LTMuNDAzYS41MTguNTE4IDAgMDEtLjA3Mi4yNTcuMzQyLjM0MiAwIDAxLS4xNjUuMTU0bC04Ljg5MiA1LjIyMmEuNDA1LjQwNSAwIDAxLS40NTIgMGwtMi41MDgtMS40NyA0LjU3NS0yLjY5M3YtLjAxbDQuMjE1LTIuNDc4YS45OTguOTk4IDAgMDAuNDMyLS40NDIgMS4xMyAxLjEzIDAgMDAuMTc1LS42MDZWOC40NTdjMC0uMjE2LS4wNjItLjQyMS0uMTY1LS41OTZhMS4xODkgMS4xODkgMCAwMC0uNDMyLS40NDJsLTMuNTM2LTIuMDc3LTMuMzUyLTEuOTc0LTEuOTIzLTEuMTQxTDguOTExLjc4OGEuNDQ2LjQ0NiAwIDAxLjQ1MiAwbDguOTg1IDUuMjk0YS4zMTkuMzE5IDAgMDEuMTU0LjE1NC41MTcuNTE3IDAgMDEuMDYyLjI0N3YxMS4wOTJ6Ii8+PC9zdmc+&logoColor=white)
+![COMSOL](https://img.shields.io/badge/-COMSOL-368CCB?style=flat-square&logo=comsol&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-333333?style=flat-square&logo=autodesk&logoColor=white)
 
 ---
