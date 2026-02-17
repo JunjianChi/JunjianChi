@@ -5,9 +5,6 @@
 **MRes @ Cambridge** | **BEng (1st) @ UCL**  
 Biomedical Circuits • Embedded Systems • ML for Hardware
 
-[![Email](https://img.shields.io/badge/Email-chijunjian%40gmail.com-red?style=flat&logo=gmail)](mailto:chijunjian@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](你的LinkedIn)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-lightgrey?style=flat&logo=googlescholar)](你的Scholar)
 
 </div>
 
@@ -17,11 +14,11 @@ Biomedical Circuits • Embedded Systems • ML for Hardware
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JunjianChi&theme=transparent&hide_border=true)
 
 </div>
 
-## 💻 Tech Stack
+## Languae and Tools
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,7 +34,7 @@ Biomedical Circuits • Embedded Systems • ML for Hardware
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=github-compact&hide_border=true)](https://github.com/你的用户名)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JunjianChi&theme=github-compact&hide_border=true)](https://github.com/JunjianChi)
 
 ---
 
@@ -45,7 +42,7 @@ Biomedical Circuits • Embedded Systems • ML for Hardware
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=你的用户名&theme=flat&no-frame=true&column=7)](https://github.com/你的用户名)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JunjianChi&theme=flat&no-frame=true&column=7)](https://github.com/JunjianChi)
 
 </div>
 
@@ -63,23 +60,8 @@ Biomedical Circuits • Embedded Systems • ML for Hardware
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=你的用户名&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=JunjianChi&color=blue&style=flat)
 
 *Open to research collaborations and interesting projects!*
 
-</div>## Hi there 👋
-
-<!--
-**JunjianChi/JunjianChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
