@@ -1,6 +1,6 @@
 <h1>🛠️ Hi there, I'm Junjian Chi</h1>
 
-<h4>MRes @ Cambridge | BEng @ UCL<br>
+<h4>MRes Sensor @ Cambridge | BEng EEE @ UCL<br>
 Biomedical Circuits · Embedded Systems · Embodied Learning</h4>
 
 👟 Previously worked on wearable sensing and human pose estimation.<br>
