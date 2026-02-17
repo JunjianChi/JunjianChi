@@ -1,10 +1,10 @@
-<h1>Hi there, I'm Junjian Chi</h1>
+<h1>🛠️ Hi there, I'm Junjian Chi</h1>
 
 <h4>MRes @ Cambridge | BEng @ UCL<br>
 Biomedical Circuits · Embedded Systems · Embodied Learning</h4>
 
-Previously worked on wearable sensing and human pose estimation.
-Currently exploring robotics perception and planning.
+👟 Previously worked on wearable sensing and human pose estimation.<br>
+🤖 Currently exploring robotics perception and planning.
 
 Feel free to contact: chijunjian@gmail.com
 
