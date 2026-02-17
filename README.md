@@ -5,12 +5,12 @@
 <h3>MRes @ Cambridge | BEng @ UCL<br>
 Biomedical Circuits · Embedded Systems · Embodied Learning</h3>
 
-<p>Previously worked on wearable sensing and human pose estimation.<br>
-Currently exploring robotics perception and planning.</p>
-
-<p>Feel free to contact: <a href="mailto:chijunjian@gmail.com">chijunjian@gmail.com</a></p>
-
 </div>
+
+Previously worked on wearable sensing and human pose estimation.
+Currently exploring robotics perception and planning.
+
+Feel free to contact: chijunjian@gmail.com
 
 ---
 
@@ -34,7 +34,7 @@ Currently exploring robotics perception and planning.</p>
 ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-848484?style=flat-square&logo=v&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTggNzAuMmwzMS44NzktMTIuODhhODIuNjIgODIuNjIgMCAwMTEwLjg4My0xMS44YzIuNjM2LTEuMzk5IDcuNTk3LS42NDEgMTYuNjgtMTEuOTE4IDguNzk2LTExIDExLjU5Ny0yMC40MDMgMTUuNzE4LTIwLjQwMyA2LjUyIDAgMTEuMzIgMTQuMDgyIDE4LjYwMiAzNS40MDNBNDYxLjc1IDQ2MS43NSAwIDAwMTIwIDk2LjQ4Yy03LjYwMi03LjA4Mi0xNC4wNzgtMTQuNzE4LTIxLjQ4LTE0LjUyLTYuODguMTYxLTE0LjUyIDguMzIxLTIyLjg4IDE4LjgwMkM2OSAxMDkuMTYgNjAuMiAxMTQuOTIyIDU2Ljc2MyAxMTQuOGMwIDAtOC44ODMtMjUuMTIxLTE2LjMyLTI5LjJhMTAuNTYzIDEwLjU2MyAwIDAwLTkuNTYzLjc5N0w4IDcwLjE2em0wIDAiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC43IiBkPSJNNzkuMiAxNi4wNzhjLTIuNjggMy42MDItNS45MiAxMC4yMDMtMTEuNzYgMTcuNTI0LTkuMDgyIDExLjI3Ny0xNCAxMC41Mi0xNi42OCAxMS45MThhNzguNjczIDc4LjY3MyAwIDAwLTEwLjg4MiAxMS44bDEzLjIgOS42NEM2NC4yOCA1MS42OCA3MC4yOCAzNS4xMjIgNzQuOTYgMjQuMzk5YTU0LjY0OSA1NC42NDkgMCAwMTQuMjM4LTguMzJ6bTAgMCIvPjxwYXRoIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjg1IiBkPSJNODMuMiAxMy4yYy04LjcyIDAtMTQuNjggNDUuOTIxLTQ2Ljg4IDcxLjU2MiA5LjA0LTEuNDggMTYuODggMjAuOTU3IDIwLjQ4IDMwLjAzOSAxNi0yLjcyMyAyOC44MDItMzMuMzIgNDEuNzItMzIuODQgNy40MDIuMjc3IDEzLjg3OCA3LjQzNyAyMS40OCAxNC41MkMxMDIuNjQgNjAgOTQuNTIgMTMuMTk4IDgzLjIgMTMuMTk4em0wIDAiLz48L3N2Zz4=&logoColor=white)
 
 ### Embedded
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)

@@ -10,7 +10,10 @@
       "WebFetch(domain:cdn.simpleicons.org)",
       "WebSearch",
       "WebFetch(domain:raw.githubusercontent.com)",
-      "WebFetch(domain:www.svgviewer.dev)"
+      "WebFetch(domain:www.svgviewer.dev)",
+      "WebFetch(domain:img.shields.io)",
+      "WebFetch(domain:techicons.dev)",
+      "WebFetch(domain:icon.icepanel.io)"
     ]
   }
 }
